@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealCalculatorApp", "RealCalculatorApp\RealCalculatorApp.csproj", "{6F3BFDDE-0A9B-4E75-BC2A-3AE54C451013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfBasketsNeeded", "NumberOfBasketsNeeded\NumberOfBasketsNeeded.csproj", "{46EDD032-7A2A-43F2-B77C-4F2EDD045E1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfBaskets needed", "NumberOfBaskets needed\NumberOfBaskets needed.csproj", "{FC8AFDD4-F333-4FFD-BB21-D1190A34A9BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{6F3BFDDE-0A9B-4E75-BC2A-3AE54C451013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F3BFDDE-0A9B-4E75-BC2A-3AE54C451013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F3BFDDE-0A9B-4E75-BC2A-3AE54C451013}.Release|Any CPU.Build.0 = Release|Any CPU
-		{46EDD032-7A2A-43F2-B77C-4F2EDD045E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{46EDD032-7A2A-43F2-B77C-4F2EDD045E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{46EDD032-7A2A-43F2-B77C-4F2EDD045E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{46EDD032-7A2A-43F2-B77C-4F2EDD045E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8AFDD4-F333-4FFD-BB21-D1190A34A9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8AFDD4-F333-4FFD-BB21-D1190A34A9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8AFDD4-F333-4FFD-BB21-D1190A34A9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8AFDD4-F333-4FFD-BB21-D1190A34A9BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

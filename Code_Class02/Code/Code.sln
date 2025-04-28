@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealCalculatorApp", "RealCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfBaskets needed", "NumberOfBaskets needed\NumberOfBaskets needed.csproj", "{FC8AFDD4-F333-4FFD-BB21-D1190A34A9BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLargerNumberOddEven", "FindLargerNumberOddEven\FindLargerNumberOddEven.csproj", "{7B794C3F-A304-47DE-B533-2F140C084F2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FC8AFDD4-F333-4FFD-BB21-D1190A34A9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC8AFDD4-F333-4FFD-BB21-D1190A34A9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC8AFDD4-F333-4FFD-BB21-D1190A34A9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B794C3F-A304-47DE-B533-2F140C084F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B794C3F-A304-47DE-B533-2F140C084F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B794C3F-A304-47DE-B533-2F140C084F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B794C3F-A304-47DE-B533-2F140C084F2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

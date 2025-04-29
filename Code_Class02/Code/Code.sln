@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLargerNumberOddEven", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchApp", "SwitchApp\SwitchApp.csproj", "{D6C4C022-98A1-4467-BCF6-0BCA4F4BCA5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifExercises", "ifExercises\ifExercises.csproj", "{B14943D2-E9DB-48AE-9D9B-F9B1DDCDD3E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D6C4C022-98A1-4467-BCF6-0BCA4F4BCA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6C4C022-98A1-4467-BCF6-0BCA4F4BCA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6C4C022-98A1-4467-BCF6-0BCA4F4BCA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14943D2-E9DB-48AE-9D9B-F9B1DDCDD3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14943D2-E9DB-48AE-9D9B-F9B1DDCDD3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14943D2-E9DB-48AE-9D9B-F9B1DDCDD3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14943D2-E9DB-48AE-9D9B-F9B1DDCDD3E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

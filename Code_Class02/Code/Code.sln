@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfBaskets needed", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLargerNumberOddEven", "FindLargerNumberOddEven\FindLargerNumberOddEven.csproj", "{7B794C3F-A304-47DE-B533-2F140C084F2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchApp", "SwitchApp\SwitchApp.csproj", "{D6C4C022-98A1-4467-BCF6-0BCA4F4BCA5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7B794C3F-A304-47DE-B533-2F140C084F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B794C3F-A304-47DE-B533-2F140C084F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B794C3F-A304-47DE-B533-2F140C084F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C4C022-98A1-4467-BCF6-0BCA4F4BCA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C4C022-98A1-4467-BCF6-0BCA4F4BCA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C4C022-98A1-4467-BCF6-0BCA4F4BCA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C4C022-98A1-4467-BCF6-0BCA4F4BCA5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
